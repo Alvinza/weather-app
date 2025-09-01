@@ -5,6 +5,12 @@ A dynamic and responsive weather application built with React and Tailwind CSS. 
 ## 🌐 Live Demo
 
 **[View Live App](https://weather-app-three-cyan-69.vercel.app/)**
+## 📸 Screenshot
+
+![App Screenshot](./src/assets/screenshot.png)
+
+---
+
 
 ## 🌤️ Features
 
